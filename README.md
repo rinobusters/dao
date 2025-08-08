@@ -20,7 +20,7 @@ This identifier allows any member of the public to view and audit the DAO's func
 
 ## 4. Management Structure
 
-Rinobusters DAO LLC is **algorithmically managed**. The smart contract specified above dictates the rules for governance, treasury management, and operational protocols. There are no designated managers; all actions are executed automatically based on the outcomes of member votes as encoded in the smart contract.
+Rinobusters DAO LLC may be **algorithmically managed**. The smart contract specified above dictates the rules for governance, treasury management, and operational protocols. There may be no designated managers; all actions may be executed automatically based on the outcomes of member votes as encoded in the smart contract.
 
 ## 5. Governance Process
 
