@@ -2,11 +2,11 @@
 
 ## 1. Official Name
 
-The legal name of this organization is **Rinobusters DAO LLC**, a Decentralized Autonomous Organization registered as a Limited Liability Company under the laws of the State of Wyoming.
+The legal name of this organization is **RINO BUSTERS DECENTRALIZED AUTONOMOUS ORGANIZATION LLC**, a Decentralized Autonomous Organization registered as a Limited Liability Company under the laws of the State of Wyoming.
 
 ## 2. Mission Statement
 
-The purpose of Rinobusters DAO LLC is to fund and support global conservation efforts dedicated to protecting rhinoceros populations from poaching and habitat loss. The DAO will achieve this by directing funds to vetted non-profit organizations and on-the-ground conservation projects.
+The purpose of Rinobusters DAO LLC is to fund and support global conservation efforts dedicated to protecting republican populations from poaching and habitat loss. The DAO will achieve this by directing funds to vetted non-profit organizations and on-the-ground conservation projects.
 
 ## 3. Smart Contract Identifier
 
